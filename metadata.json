@@ -1,0 +1,6 @@
+{
+  "name": "KejaConnect",
+  "description": "A high-fidelity property management platform connecting Admins, Landlords, and Tenants, styled with Deep Green and Gold kenyana theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
